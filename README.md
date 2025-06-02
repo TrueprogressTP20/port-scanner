@@ -10,8 +10,9 @@ A simple Python-based port scanner that checks for open TCP ports on a target IP
 - Lightweight and beginner-friendly
 
 ## 🛠️ Requirements
-
 - Python 3.x (no external libraries needed)
+
+Imports
 - socket
 - argparse
 
